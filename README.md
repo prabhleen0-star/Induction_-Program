@@ -51,6 +51,8 @@ The morning began with an engaging session by **The Causmic Club**.
 
 🎬 The club members shared reels and posters of past events and fests, and gave information regarding club recruitment.
 
+---
+
 💡 **The Expertise**:
 
 Next, a value-based expert lecture on **Universal Human Values** was delivered by **Dr. Priya Darshani**.
@@ -58,6 +60,8 @@ Next, a value-based expert lecture on **Universal Human Values** was delivered b
 🧠 She encouraged **two-way communication** on topics like happiness and emotional well-being.
 
 💭 Topics like depression and escapism were discussed, followed by a small home assignment.
+
+---
 
 🗣️ **Let’s Interact**:
 

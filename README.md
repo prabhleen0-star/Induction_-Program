@@ -1,7 +1,7 @@
-🌟 Induction_-Program
+🌟 **Induction_-Program**
 
-Prabhleen Kaur - ECE
-📋 Registration No. 25103828
+**Prabhleen Kaur - ECE**
+📋**Registration No. 25103828**
 
 ---
 
@@ -9,19 +9,33 @@ Prabhleen Kaur - ECE
 
 📅 Date: 30 July, 2025
 
-🙏 A Blissful Start:
+🙏 **A Blissful Start**:
 
-The day started with our visit to college Gurudwara Sahib. The religious prayers and shabad kirtan mesmerized students and indulged them in Guru's Love.
+The day started with our visit to college **Gurudwara Sahib**. The religious prayers and shabad kirtan mesmerized students and indulged them in Guru's Love.
   🍽️ After this spiritual session, students gathered for refreshments and snacks.
+  
+---
 
-🎉 The Inaugural Ceremony:
+🎉 **The Inaugural Ceremony**:
 
 The Inaugural Ceremony began in the college Auditorium.
 🎤 The Hosting Team addressed the students and spoke about the proud legacy of the college.
-🎓 Dr. Sehijpal Singh, Principal, GNDEC Ludhiana, delivered an inspirational speech about the college’s heritage and its values.
-👩‍🏫 Mrs. Harpreet Kaur, HOD of the Department of Applied Science, also shared her views.
-🎖️ The Chief Guest, S. Maheshinder Singh (Ex-Cabinet Minister and Senior Trustee of Nankana Sahib Educational Trust), gave the undergrads some meaningful insights.
+🎓 **Dr. Sehijpal Singh, Principal, GNDEC Ludhiana**, delivered an inspirational speech about the college’s heritage and its values.
+
+---
+
+👩‍🏫 **Mrs. Harpreet Kaur, HOD of the Department of Applied Science**, also shared her views.
+
+---
+
+🎖**The Chief Guest, S. Maheshinder Singh (Ex-Cabinet Minister and Senior Trustee of Nankana Sahib Educational Trust)**, gave the undergrads some meaningful insights.
+
+---
+
 🏫 Afterwards, students were shown the various departmental classrooms.
+
+---
+
 ✅ The Inaugural Ceremony concluded successfully.
 
 
@@ -31,27 +45,34 @@ The Inaugural Ceremony began in the college Auditorium.
 
 📅 Date: 4 August, 2025
 
-🚀 A New Beginning:
+🚀 **A New Beginning**:
 
-The morning began with an engaging session by The Causmic Club.
+The morning began with an engaging session by **The Causmic Club**.
+
 🎬 The club members shared reels and posters of past events and fests, and gave information regarding club recruitment.
 
-💡 The Expertise:
+💡 **The Expertise**:
 
-Next, a value-based expert lecture on Universal Human Values was delivered by Dr. Priya Darshani.
-🧠 She encouraged two-way communication on topics like happiness and emotional well-being.
+Next, a value-based expert lecture on **Universal Human Values** was delivered by **Dr. Priya Darshani**.
+
+🧠 She encouraged **two-way communication** on topics like happiness and emotional well-being.
+
 💭 Topics like depression and escapism were discussed, followed by a small home assignment.
 
-🗣️ Let’s Interact:
+🗣️ **Let’s Interact**:
 
-Later, an interactive English session was conducted by Prof. Nisha on "Introduction and Ways to Communicate."
+Later, an interactive English session was conducted by **Prof. Nisha** on "**Introduction and Ways to Communicate.**"
 👋 She introduced herself and asked students to do the same.
 📚 Basic English communication questions were discussed.
 
-👨‍💻 The Coders:
+---
+👨‍💻 **The Coders**:
 
-The day concluded with a Peer-to-Peer lecture by seniors on simple C++ programming.
+The day concluded with a **Peer-to-Peer** lecture by seniors on simple **C++ programming**.
 🧑‍💻 It was a fun, hands-on coding session that left students inspired.
+
+---
+
 📌 In a nutshell, Day 2 was a mix of fun, learning, and valuable insights.
 
 
@@ -61,25 +82,28 @@ The day concluded with a Peer-to-Peer lecture by seniors on simple C++ programmi
 
 📅 Date: 5 August, 2025
 
-❓ The Questionnaire:
+❓**The Questionnaire**:
 
 The day began with an interactive Q&A hour with our seniors.
 🙋‍♀️ Students asked questions and got guidance about college life.
 
-🌾 The Superfood:
+🌾 **The Superfood**:
 
-An Expert Lecture by Mrs. Shaffy Makkar focused on Millets as a Superfood.
+An Expert Lecture by **Mrs. Shaffy Makkar** focused on **Millets as a Superfood**.
 🌱 She explained how the Green Revolution popularized wheat and rice, overshadowing the nutritional value of millets.
 🥣 She highlighted their benefits and shared easy cooking methods.
 
-🏅 The Gratification:
+🏅 **The Gratification**:
 
 The session ended with a token of gratitude to Mrs. Shaffy Makkar.
+
+---
+
 📚 In summary, Day 3 was both educational and enthusiastic.
 
 ---
 
-# Induction Program - Day 4  
+# Day 4  
 ## 📅 Date: 6 August, 2025  
 
 ---

@@ -12,7 +12,7 @@ Prabhleen Kaur - ECE
 🙏 A Blissful Start:
 
 The day started with our visit to college Gurudwara Sahib. The religious prayers and shabad kirtan mesmerized students and indulged them in Guru's Love.
-🍽️ After this spiritual session, students gathered for refreshments and snacks.
+  🍽️ After this spiritual session, students gathered for refreshments and snacks.
 
 🎉 The Inaugural Ceremony:
 

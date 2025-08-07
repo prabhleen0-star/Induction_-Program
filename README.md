@@ -1,110 +1,83 @@
-🎓 Induction Program
+🌟 Induction_-Program
 
-👩‍🎓 Prabhleen Kaur – ECE
+Prabhleen Kaur - ECE
+📋 Registration No. 25103828
+
+---
+
+🗓️ Day-1
+
+📅 Date: 30 July, 2025
+
+🙏 A Blissful Start:
+
+The day started with our visit to college Gurudwara Sahib. The religious prayers and shabad kirtan mesmerized students and indulged them in Guru's Love.
+🍽️ After this spiritual session, students gathered for refreshments and snacks.
+
+🎉 The Inaugural Ceremony:
+
+The Inaugural Ceremony began in the college Auditorium.
+🎤 The Hosting Team addressed the students and spoke about the proud legacy of the college.
+🎓 Dr. Sehijpal Singh, Principal, GNDEC Ludhiana, delivered an inspirational speech about the college’s heritage and its values.
+👩‍🏫 Mrs. Harpreet Kaur, HOD of the Department of Applied Science, also shared her views.
+🎖️ The Chief Guest, S. Maheshinder Singh (Ex-Cabinet Minister and Senior Trustee of Nankana Sahib Educational Trust), gave the undergrads some meaningful insights.
+🏫 Afterwards, students were shown the various departmental classrooms.
+✅ The Inaugural Ceremony concluded successfully.
 
 
 ---
 
-📅 Day 1 – 30th July, 2025
+🗓️ Day-2
 
-🛕 Visit to Gurudwara Sahib
+📅 Date: 4 August, 2025
 
-The day started with a visit to the college Gurudwara Sahib. The religious prayers and Shabad Kirtan mesmerized the students and immersed them in the Guru's love. 🙏
+🚀 A New Beginning:
 
-☕ Refreshments
+The morning began with an engaging session by The Causmic Club.
+🎬 The club members shared reels and posters of past events and fests, and gave information regarding club recruitment.
 
-After the spiritual session, students gathered for refreshments and snacks to kickstart the day.
+💡 The Expertise:
 
-🎉 Inaugural Ceremony
+Next, a value-based expert lecture on Universal Human Values was delivered by Dr. Priya Darshani.
+🧠 She encouraged two-way communication on topics like happiness and emotional well-being.
+💭 Topics like depression and escapism were discussed, followed by a small home assignment.
 
-The Inaugural Ceremony took place in the college auditorium. 🎤
+🗣️ Let’s Interact:
 
-The session was opened by the Causmic Club, who introduced students to the college's rich legacy. 🏛️
+Later, an interactive English session was conducted by Prof. Nisha on "Introduction and Ways to Communicate."
+👋 She introduced herself and asked students to do the same.
+📚 Basic English communication questions were discussed.
 
-Dr. Sehijpal Singh, Principal of GNDEC Ludhiana, delivered an inspirational speech emphasizing college values. 🌟
+👨‍💻 The Coders:
 
-Mrs. Harpreet Kaur, HOD of Applied Science, shared her insightful thoughts. 👩‍🏫
-
-The Chief Guest, S. Maheshinder Singh (Ex-Cabinet Minister & Senior Trustee, Nankana Sahib Educational Trust), gave students meaningful and motivational insights. 🗣️
-
-
-🏫 Campus Tour
-
-Students were shown departmental classrooms to get familiar with the college environment.
-
-🔚 The inaugural ceremony concluded successfully.
+The day concluded with a Peer-to-Peer lecture by seniors on simple C++ programming.
+🧑‍💻 It was a fun, hands-on coding session that left students inspired.
+📌 In a nutshell, Day 2 was a mix of fun, learning, and valuable insights.
 
 
 ---
 
-📅 Day 2 – 4th August, 2025
+🗓️ Day-3
 
-💫 Causmic Club Session
+📅 Date: 5 August, 2025
 
-The morning started with an authentic session by the Causmic Club. 🎥
+❓ The Questionnaire:
 
-They shared reels and posters of past fests and activities. 📸
+The day began with an interactive Q&A hour with our seniors.
+🙋‍♀️ Students asked questions and got guidance about college life.
 
-Students were informed about club recruitment opportunities. 📝
+🌾 The Superfood:
 
+An Expert Lecture by Mrs. Shaffy Makkar focused on Millets as a Superfood.
+🌱 She explained how the Green Revolution popularized wheat and rice, overshadowing the nutritional value of millets.
+🥣 She highlighted their benefits and shared easy cooking methods.
 
-💡 Expert Talk – Universal Human Values
+🏅 The Gratification:
 
-Dr. Priya Darshani delivered a value-based expert lecture on Universal Human Values. ❤️
-She encouraged a two-way discussion with students on:
-
-Happiness 😊
-
-Types of feelings 💭
-
-Depression and escapism 😔
-
-
-She concluded by giving home assignments for self-reflection. 📝
-
-🗣️ English Communication Lecture
-
-Prof. Nisha conducted an interactive English lecture titled "Introduction and Ways to Communicate." 📚
-
-She introduced herself, and students followed by introducing themselves. 🙋‍♀️🙋‍♂️
-
-Basic English questions and conversation starters were discussed. 💬
-
-
-👨‍💻 Peer-to-Peer C++ Programming
-
-An engaging peer-to-peer session was hosted by college seniors, where they introduced students to basic C++ programming. 👩‍💻👨‍💻
-It was a fun and educational experience.
-
-🔚 Day 2 concluded with learning and excitement.
-
-📝 In a nutshell: Day 2 was a perfect mix of fun learning and inspired education.
-
+The session ended with a token of gratitude to Mrs. Shaffy Makkar.
+📚 In summary, Day 3 was both educational and enthusiastic.
 
 ---
-
-📅 Day 3 – 5th August, 2025
-
-🙋‍♂️🙋‍♀️ Q&A with Seniors
-
-The day began with an interactive question hour with our seniors. 🤝
-This friendly session encouraged bonding and open communication. 💬
-
-🌾 Expert Talk – Millets as a Superfood
-
-Mrs. Shaffy Makkar delivered a valuable lecture on Millets as a Superfood. 🥣
-She highlighted:
-
-How the Green Revolution led to a focus on rice and wheat 🌾🍚
-
-The nutritional value, health benefits, and cooking methods of millets 🌿👩‍🍳
-
-
-🏆 Vote of Thanks
-
-The session ended with a heartfelt token of gratitude presented to Mrs. Shaffy Makkar. 🙏🎁
-
-📝 In a nutshell: Day 3 was enthusiastic, informative, and inspiring. 🌟
 
 # Induction Program - Day 4  
 ## 📅 Date: 6 August, 2025  
@@ -156,3 +129,59 @@ In this collaborative session, **senior students** interacted with the freshers.
 ## 📝 Summary:  
 **Day 4** was a blend of **inspiration, discipline, motivation, and collaborative learning**.  
 It began with a focus on **fitness**, moved towards **patriotism**, and concluded with **interactive academic engagement**.
+
+# 🧠 Day-5 Summary
+## 📅 Date: 7 August, 2025
+
+---
+
+## 🔬 The Vector Entanglement:
+The day began with a fascinating and thought-provoking Physics lecture by **Prof. Jaspreet Singh**.  
+He introduced us to the **fundamentals of Scalars, Vectors, and Operators**, laying a strong foundation for our syllabus.  
+It was an *interactive* and *remarkable* session — his unique teaching style left everyone **astonished** and engaged.
+
+---
+
+## ➗ The Math-Attack:
+Next, we had a "Number Crunching" Mathematics lecture by **Prof. Sandeep Kaur Gill**, focused on the mind-boggling topic of **Differential Equations**.
+
+### Topics Covered:
+- Types of Differential Equations  
+- Order and Degree  
+- Method of Separation
+
+Her teaching was clear, concise, and full of energy. She's not just a teacher — she's a true **Math Magician**!  
+Every concept became crystal clear.
+
+---
+
+## 🧭 The Enthusiastic Session:
+Then came an inspiring session from the **Centre of Multi-Faceted Learning (CML)** conducted by **Dr. Lakhvir Singh Khana**, the society incharge.
+
+### Highlights:
+- Two-way interaction with students  
+- Insights into the **CML Society**  
+- Guidance on future studies and training  
+- Introduction to **SWAYAM** and **NPTEL** courses  
+- Step-by-step guide on joining courses and their career significance
+
+This session provided authentic and valuable guidance to all students.
+
+---
+
+## 🙏 The Seva Service:
+The final session was conducted by **Dr. Jasvir Singh Grewal**, Incharge **NSS, GNDEC**.
+
+### Session Flow:
+- Began with a blissful **Shabad Recitation and Raga Singing** by NSS volunteers  
+- Presentation showcasing the impactful work of **National Seva Service (NSS)**  
+- Fun game with students and volunteers  
+- An engaging and meaningful **skit** performed by NSS volunteers
+
+This session was eye-opening and encouraged students to actively join NSS for social service and personal growth.
+
+---
+
+## ✅ Conclusion:
+> The day was **enthusiastically cheerful and educational**.  
+> It wasn’t just about academics but also about understanding concepts deeply and promoting **holistic development** through interactive and inspiring sessions.

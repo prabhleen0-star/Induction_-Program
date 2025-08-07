@@ -130,8 +130,8 @@ In this collaborative session, **senior students** interacted with the freshers.
 **Day 4** was a blend of **inspiration, discipline, motivation, and collaborative learning**.  
 It began with a focus on **fitness**, moved towards **patriotism**, and concluded with **interactive academic engagement**.
 
-# 🧠 Day-5 Summary
-## 📅 Date: 7 August, 2025
+# 🧠 Day-5
+## 📅 Date: 7 August 2025
 
 ---
 
